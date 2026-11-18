@@ -74,6 +74,7 @@ I aim to combine this experience with technical data analytics skills to support
 - Data Transformation and Analysis in Power Query
 - Data Analysis in SQL
 - KajoDataSpace — Analytics Community & Programme
+- Data Visualization & Data Analysis in PowerBI
 
 **Poznań University of Economics and Business**
 - Bazy danych i język SQL dla nieinformatyków
